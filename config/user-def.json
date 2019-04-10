@@ -1,0 +1,12 @@
+{
+    "Username": "meena.vangala@globalfoundries.org",
+    "LastName": "Hobbs",
+    "Email": "meena.vangala@globalfoundries.com",
+    "Alias": "mVangala",
+    "TimeZoneSidKey": "America/Denver",
+    "LocaleSidKey": "en_US",
+    "EmailEncodingKey": "UTF-8",
+    "LanguageLocaleKey": "en_US",
+
+    "generatePassword": true
+}
