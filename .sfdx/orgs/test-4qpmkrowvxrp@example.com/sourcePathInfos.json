@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554881904047,
-            "changeTime": 1554881904047,
-            "contentHash": "abed2654d84706c55c2415cd0c6e1c16e94c607b"
+            "modifiedTime": 1554882542590,
+            "changeTime": 1554882542590,
+            "contentHash": "9f5bc7347fec7c91b005faa182f3b7dc95c5aff5"
         }
     ],
     [
@@ -60,14 +60,14 @@
     [
         "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1554881904028,
             "changeTime": 1554881904028,
-            "contentHash": "9a717e7d6b46d0bf9c02d82cd80f3d657ffc45bd"
+            "contentHash": "9a717e7d6b46d0bf9c02d82cd80f3d657ffc45bd",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -133,27 +133,27 @@
     [
         "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes\\Stringcomp.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes\\Stringcomp.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1554881904024,
             "changeTime": 1554881904024,
-            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes\\Stringcomp.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes\\Stringcomp.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 83,
             "modifiedTime": 1554881904030,
             "changeTime": 1554881904030,
-            "contentHash": "569313d9bc56853ef7b6ad8b0ae60e4cf87e07a4"
+            "contentHash": "569313d9bc56853ef7b6ad8b0ae60e4cf87e07a4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -163,10 +163,10 @@
             "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 18819,
-            "modifiedTime": 1554881904066,
-            "changeTime": 1554881904066,
-            "contentHash": "3cc23401cf0ee76648c23df318eed50fd58fce82"
+            "size": 19255,
+            "modifiedTime": 1554882542667,
+            "changeTime": 1554882542667,
+            "contentHash": "2487e227c8ddf0a0e8c44613be670bb7aa4ab418"
         }
     ],
     [
@@ -177,9 +177,113 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1554881904060,
-            "changeTime": 1554881904060,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+            "modifiedTime": 1554882542682,
+            "changeTime": 1554882542682,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\objects\\contract__c\\contract__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\objects\\contract__c\\contract__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2064,
+            "modifiedTime": 1554882542590,
+            "changeTime": 1554882542590,
+            "contentHash": "f82a8388fa374e8a7953647d27674585012df10f"
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\layouts\\contract__c-contract Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\layouts\\contract__c-contract Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1554882542590,
+            "changeTime": 1554882542590,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5118,
+            "modifiedTime": 1554882542605,
+            "changeTime": 1554882542605,
+            "contentHash": "aab8ad7436560840e15e1bf0f9079a32da011e78"
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4780,
+            "modifiedTime": 1554882542682,
+            "changeTime": 1554882542682,
+            "contentHash": "24f1c110a4b063f0977906564a2549a3ee74afbe"
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4780,
+            "modifiedTime": 1554882542682,
+            "changeTime": 1554882542682,
+            "contentHash": "24f1c110a4b063f0977906564a2549a3ee74afbe"
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\objects\\contract__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\objects\\contract__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554882542574,
+            "changeTime": 1554882542574,
+            "contentHash": "11814989c50713663bfbbb812ede26c3669a5a73"
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554882542574,
+            "changeTime": 1554882542574,
+            "contentHash": "67a3580aa7456ea4468d1338eeeacfddde1500ed"
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554882542590,
+            "changeTime": 1554882542590,
+            "contentHash": "eb704d7b59157199e8718a950697a0adf861c932"
         }
     ]
 ]
