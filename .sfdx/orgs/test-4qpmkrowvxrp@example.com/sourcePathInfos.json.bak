@@ -1,0 +1,137 @@
+[
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554881167826,
+            "changeTime": 1554881167873,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554881167841,
+            "changeTime": 1554881167841,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554881225897,
+            "changeTime": 1554881225897,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554781640841,
+            "changeTime": 1554881167841,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554881225961,
+            "changeTime": 1554881225961,
+            "contentHash": "2c1b85a269b8548867ca52471bbf64702002d8e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes\\StringAddition.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes\\StringAddition.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 82,
+            "modifiedTime": 1554881225959,
+            "changeTime": 1554881225959,
+            "contentHash": "0c18a46784e030b1fd57a9b2d24eafdc475e4ece",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes\\StringAddition.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\classes\\StringAddition.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1554881225963,
+            "changeTime": 1554881225963,
+            "contentHash": "fa2072838638ca378c4049b7f0a2a18676331cdd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554881168248,
+            "changeTime": 1554881168248,
+            "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GFApps\\SFDX\\Freeze",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GFApps\\SFDX\\Freeze",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554881167826,
+            "changeTime": 1554881167857,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
